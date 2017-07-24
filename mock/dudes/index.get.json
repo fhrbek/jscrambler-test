@@ -1,0 +1,6 @@
+{
+  "dudes": [
+    {"id": 0, "name": "Filip", "nick": "Filipo"},
+    {"id": 1, "name": "Pedro", "nick": "God"}
+  ]
+}
