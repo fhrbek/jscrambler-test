@@ -20,9 +20,8 @@
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
-    "babel-plugin-transform-es2015-block-scoping": "^6.24.1",
     "ember-ajax": "^2.0.1",
-    "ember-cli": "2.6.1",
+    "ember-cli": "2.12.2",
     "ember-cli-app-version": "^1.0.0",
     "ember-cli-babel": "^5.1.6",
     "ember-cli-dependency-checker": "^1.2.0",
@@ -34,10 +33,9 @@
     "ember-cli-release": "0.2.8",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-uglify": "^1.2.0",
-    "ember-data": "^2.6.0",
+    "ember-data": "~2.12.2",
     "ember-export-application-global": "^1.0.5",
     "ember-load-initializers": "^0.5.1",
-    "ember-source": "~2.14.0",
     "ember-resolver": "^2.0.3",
     "loader.js": "^4.0.1"
   }
